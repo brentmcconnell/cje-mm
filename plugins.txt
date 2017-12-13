@@ -60,6 +60,7 @@ github-organization-folder:1.6
 github:1.27.0
 gradle:1.26
 handlebars:1.1.1
+hashicorp-vault-plugin:2.1.0
 hipchat:2.1.1
 http_request:1.8.20
 icon-shim:2.0.3
